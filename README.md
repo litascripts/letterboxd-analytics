@@ -24,3 +24,17 @@ This project analyzes a dataset of 10,000 movies from Letterboxd. It includes da
 | NLTK       | Text preprocessing (skills, genres) |
 | PostgreSQL | SQL querying and analysis           |
 | Tableau    | Interactive dashboard & visualization |
+
+📊 Tableau Dashboard
+you can see my dashboard here: https://public.tableau.com/app/profile/lita/viz/LetterboxdTopMovies/LetterboxdTopMovies
+![Letterboxd Top Movies](https://github.com/user-attachments/assets/2617b78d-53fd-4623-ac10-bde3c04e79ef)
+
+🧷 Credits
+📂 Dataset: Letterboxd Movie Dataset (10k movies) https://www.kaggle.com/datasets/sahilislam007/letterbox-movie-classification-dataset
+💻 Author: Lita
+🗓 Date: June 2025
+
+📎 Connect With Me
+🌐 LinkedIn: https://www.linkedin.com/in/lita-utami-wulandari/
+💼 GitHub: https://github.com/litascripts
+📧 Email: litautamiwulandari@gmail.com
