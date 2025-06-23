@@ -10,7 +10,6 @@ This project analyzes a dataset of 10,000 movies from Letterboxd. It includes da
 
 **Main Objectives:**
 - Identify the highest-rated films
-- Analyze film trends by language
 - Discover the most liked and most 5-star rated movies
 - Visualize user engagement and genre distributions
 
